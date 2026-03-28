@@ -1,5 +1,5 @@
 # 🎯 AI Resume Screening & Candidate Ranking System
-
+(A sample resume data set is provided in the files named: "Resume.csv")
 An advanced AI-powered web application that automates resume screening and intelligently ranks candidates based on job requirements using Natural Language Processing (NLP) and Machine Learning techniques.
 
 ---
